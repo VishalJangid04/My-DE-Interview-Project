@@ -1,0 +1,4 @@
+status_id,status,is_revenue
+1,COMPLETED,True
+2,RETURNED,False
+3,CANCELLED,False

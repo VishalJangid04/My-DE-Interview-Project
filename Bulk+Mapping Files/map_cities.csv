@@ -1,0 +1,11 @@
+city_id,city,state,region
+1,Mumbai,Maharashtra,West
+2,Pune,Maharashtra,West
+3,Nashik,Maharashtra,West
+4,Nagpur,Maharashtra,Central
+5,Delhi,Delhi,North
+6,Bengaluru,Karnataka,South
+7,Chennai,Tamil Nadu,South
+8,Hyderabad,Telangana,South
+9,Ahmedabad,Gujarat,West
+10,Kolkata,West Bengal,East
