@@ -1,0 +1,26 @@
+cashier_id,cashier_name,store_id,designation,hired_date,is_active
+EMP-1001,Ekantika Pillay,STORE-07,Store Associate,2025-11-29,True
+EMP-1002,Prisha Bhattacharyya,STORE-03,Store Associate,2022-12-09,True
+EMP-1003,Jairaj Maharaj,STORE-05,Senior Cashier,2023-02-13,True
+EMP-1004,Shaurya Kadakia,STORE-02,Cashier,2024-07-05,True
+EMP-1005,Gagan Sule,STORE-06,Store Associate,2025-01-22,True
+EMP-1006,Prisha Nadig,STORE-05,Senior Cashier,2022-10-11,True
+EMP-1007,Kai Taneja,STORE-08,Store Associate,2024-01-21,True
+EMP-1008,Waida Gole,STORE-07,Cashier,2025-11-05,True
+EMP-1009,Bina Hari,STORE-08,Senior Cashier,2021-07-04,True
+EMP-1010,Udyati Dalal,STORE-08,Cashier,2025-02-15,True
+EMP-1011,Oeshi Sachdev,STORE-06,Store Associate,2021-09-21,True
+EMP-1012,Simon Apte,STORE-07,Senior Cashier,2024-08-25,True
+EMP-1013,Aachal Bir,STORE-11,Cashier,2023-01-05,True
+EMP-1014,Abeer Comar,STORE-02,Store Associate,2024-11-14,True
+EMP-1015,Meghana Balakrishnan,STORE-11,Senior Cashier,2025-08-04,True
+EMP-1016,Ganga Nigam,STORE-06,Store Associate,2026-01-13,True
+EMP-1017,Urvi Banik,STORE-11,Cashier,2024-09-03,True
+EMP-1018,Nachiket Sharma,STORE-01,Cashier,2025-11-20,True
+EMP-1019,Turvi Sachdev,STORE-10,Store Associate,2026-01-23,True
+EMP-1020,Chandani Mutti,STORE-08,Cashier,2024-03-25,True
+EMP-1021,Sathvik Narula,STORE-03,Cashier,2025-06-06,True
+EMP-1022,Dominic Dixit,STORE-04,Store Associate,2022-11-17,True
+EMP-1023,Harinakshi Prashad,STORE-06,Senior Cashier,2024-07-31,True
+EMP-1024,Lopa Grover,STORE-07,Store Associate,2024-06-04,True
+EMP-1025,Divya Balay,STORE-01,Store Associate,2022-11-01,True

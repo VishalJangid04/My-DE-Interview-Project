@@ -1,0 +1,6 @@
+category_id,category,description,gst_rate_pct
+1,FOOTWEAR,"Shoes, sneakers, boots and sandals",18.0
+2,APPAREL,"Clothing — shirts, jeans, t-shirts",12.0
+3,ACCESSORIES,"Watches, bags, belts, sunglasses",18.0
+4,ELECTRONICS,Small electronics and gadgets,18.0
+5,HOME_LIVING,Home decor and household items,12.0

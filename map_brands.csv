@@ -1,0 +1,21 @@
+brand_id,brand,brand_origin,category_id
+1,Nike,International,1
+2,Adidas,International,1
+3,Woodland,Domestic,1
+4,Bata,Domestic,1
+5,Puma,International,1
+6,Reebok,International,2
+7,Levi's,International,2
+8,Arrow,Domestic,2
+9,Allen Solly,Domestic,2
+10,Van Heusen,Domestic,2
+11,Titan,Domestic,3
+12,Fastrack,Domestic,3
+13,Ray-Ban,International,3
+14,Fossil,International,3
+15,UCB,International,3
+16,Casio,International,3
+17,Wildcraft,Domestic,3
+18,boAt,Domestic,4
+19,Noise,Domestic,4
+20,Prestige,Domestic,5

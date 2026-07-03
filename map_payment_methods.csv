@@ -1,0 +1,7 @@
+payment_method_id,payment_method,is_digital,requires_auth
+1,Credit Card,True,True
+2,Debit Card,True,True
+3,UPI,True,False
+4,Net Banking,True,True
+5,Cash,False,False
+6,Gift Card,False,False
